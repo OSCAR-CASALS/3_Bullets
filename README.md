@@ -8,7 +8,7 @@ You start with three bullets capable of tearing through multiple enemies and mus
 
 Every time you collect a recharge point the speed, spawn rates and maximum ammount of enemies will increase. Will you be able to surpass 30 points?
 
-Click \href{ https://oscar-casals.github.io/3_Bullets/}{here} to play
+Click <a href="https://oscar-casals.github.io/3_Bullets/">here</a> to play
 
 ## Controls
 
