@@ -22,3 +22,5 @@ Move with the keys:
 |D|Right|
 
 Aim with the mouse and click to shoot in set direction.
+
+There is no phone support planned for this game.
